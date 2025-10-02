@@ -1,2 +1,2 @@
  # git-bash practice
-This is for practicing git bash don't take it to .......personally
+This is for practicing git bash don't take it to .......personally...
